@@ -18,20 +18,20 @@
   class: icon-cloud
   title: "Mixe, was sonst?"
 
-# - name: Facebook
-#   url: http://www.facebook.com/
-#   class: icon-facebook
-#   title: ""
+- name: Facebook
+  url: http://www.facebook.com/
+  class: icon-facebook
+  title: ""
 
-# - name: Soundcloud
-#   url: http://soundcloud.com/
-#   class: icon-soundcloud
-#   title: ""
+- name: Soundcloud
+  url: http://soundcloud.com/
+  class: icon-soundcloud
+  title: ""
 
-# - name: Instagram
-#   url: http://instagram.com/
-#   class: icon-instagram
-#   title: ""
+- name: Instagram
+  url: http://instagram.com/
+  class: icon-instagram
+  title: ""
 
 # - name: Pinterest
 #   url: http://www.pinterest.com/
