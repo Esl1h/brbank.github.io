@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Atom Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="http://localhost:4000//assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="http://localhost:4000//assets/js/modernizr.min.js"></script>
+	<script src="http://localhost:4000/assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -37,13 +37,13 @@
 	
 	
 	
-	<link rel="canonical" href="http://localhost:4000//assets/xslt/atom.xslt">
+	<link rel="canonical" href="http://localhost:4000/assets/xslt/atom.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="Atom Feed (Styled)">
 	<meta property="og:description" content="">
-	<meta property="og:url" content="http://localhost:4000//assets/xslt/atom.xslt">
+	<meta property="og:url" content="http://localhost:4000/assets/xslt/atom.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="BRbank.App">
@@ -61,7 +61,7 @@
 	
 	
 
-	<link type="text/plain" rel="author" href="http://localhost:4000//humans.txt">
+	<link type="text/plain" rel="author" href="http://localhost:4000/humans.txt">
 
 	
 
@@ -107,7 +107,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="http://localhost:4000/" class="icon-tree"> BRbank.App</a></h1>
+      <h1 class="show-for-small-only"><a href="http://localhost:4000" class="icon-tree"> BRbank.App</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
@@ -134,7 +134,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="http://localhost:4000//contact/">Contact</a></li>
+              <li><a  href="http://localhost:4000/contact/">Contact</a></li>
 
             
             
@@ -153,7 +153,7 @@
 
             
             
-              <li><a  href="http://localhost:4000//app">App</a></li>
+              <li><a  href="http://localhost:4000/app">App</a></li>
               <li class="divider"></li>
 
             
@@ -178,7 +178,7 @@
 	<div class="row">
 		<div class="small-12 columns">
 			<a id="logo" href="http://localhost:4000/" title="BRbank.App – A comparison about Brasilian Digital Banks">
-				<img src="http://localhost:4000//assets/img/" alt="BRbank.App – A comparison about Brasilian Digital Banks">
+				<img src="http://localhost:4000/assets/img/" alt="BRbank.App – A comparison about Brasilian Digital Banks">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -256,7 +256,7 @@
 
             <p class="shadow-black">
                
-              <a href="http://localhost:4000//info/">More ›</a>
+              <a href="http://localhost:4000/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -280,27 +280,27 @@
               
                 
                   <li >
-                    <a href="http://localhost:4000/"  title=""></a>
+                    <a href="http://localhost:4000"  title=""></a>
                   </li>
               
                 
                   <li >
-                    <a href="http://localhost:4000//contact/"  title="Contact">Contact</a>
+                    <a href="http://localhost:4000/contact/"  title="Contact">Contact</a>
                   </li>
               
                 
                   <li >
-                    <a href="http://localhost:4000//feed.xml"  title="Subscribe to RSS Feed">RSS</a>
+                    <a href="http://localhost:4000/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
                   </li>
               
                 
                   <li >
-                    <a href="http://localhost:4000//atom.xml"  title="Subscribe to Atom Feed">Atom</a>
+                    <a href="http://localhost:4000/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
                   </li>
               
                 
                   <li >
-                    <a href="http://localhost:4000//sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
+                    <a href="http://localhost:4000/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
                   </li>
               
               </ul>
@@ -322,7 +322,7 @@
       <div id="subfooter">
         <nav class="row">
           <section id="subfooter-left" class="small-12 medium-6 columns credits">
-            <p>Created with &hearts; by ______  with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.de/">Phlow</a> theme <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>
+            <p>Created with &hearts; by  with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.de/">Phlow</a> theme <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>
           </section>
 
           <section id="subfooter-right" class="small-12 medium-6 columns">
@@ -351,7 +351,7 @@
 		
 
 
-<script src="http://localhost:4000//assets/js/javascript.min.js"></script>
+<script src="http://localhost:4000/assets/js/javascript.min.js"></script>
 
 
 
