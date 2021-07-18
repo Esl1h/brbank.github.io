@@ -5,20 +5,30 @@
 
 Pagina com comparativo entre features e recursos sempre atualizada dos Bancos Digitais Brasileiros.
 
-### Proposito:
+### Ojetivo 2:
 
-- Ter um layout pronto usando o SSG jekyll que permita através de um simples fork e alteração dos dados em YAML/JSON/CSV a criação paginas de comparadores/comparativos simples, funcionais, personalizaveis e fáceis (através de plugins como o spaceship e recursos como Multimarkdown).
+1. Ter um projeto que permita criar qualquer pagina para comparar produtos/serviços e etc...
 
-- hospedagem via github pages
+2. Apenas a necessidade de alterar as informações em arquivos de texto: os dados num YAML/CSV/JSON e a interface web em Markdown.
 
-- paginas em markdown
+3. Hospedado (gratuitamente) dentro do Gthub Pages.
 
-- Os dados são armazenados em yaml, csv ou json (https://jekyllrb.com/docs/datafiles/).
+4. Sem necessidade de coding, programming skills, recursos financeiros para dominio ou hospedagem.
+
+
+
+
+
+### Referencias:
+
+- Os dados armazenados em yaml, csv ou json (https://jekyllrb.com/docs/datafiles/).
+
 
 
 
 ### Estágio atual
 
-- Uma pagina modelo (sem uso do jekyll, apenas para referência) em https://esl1h.github.io/brbank/app/
+- Uma pagina modelo (sem uso do jekyll) em https://esl1h.github.io/brbank/app/\
+Uma pagina simples, do CodyHouse em HTML, CSS e JS, apenas para referência. 
 
-- tema Feeling Responsive (https://phlow.github.io/feeling-responsive/documentation/)
+- Jekyll com tema Feeling Responsive (https://phlow.github.io/feeling-responsive/documentation/)
